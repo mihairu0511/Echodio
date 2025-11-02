@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-Echodio is an innovative web application inspired by the popular "Lofi Girl" concept, designed to enhance productivity and focus through AI-generated ambient experiences. The application dynamically adapts its musical atmosphere and visual aesthetics based on real-time environmental factors including weather conditions, time of day, and geographical location.
+Echodio is an innovative web application inspired by the hourly music of Animal Crossing, designed to enhance productivity and focus through AI-generated ambient experiences. The application dynamically adapts its musical atmosphere and visual aesthetics based on real-time environmental factors including weather conditions, time of day, and geographical location.
 
 ** Live Demo:** [Watch Demo Video](https://www.youtube.com/watch?v=1h2ezTZUQog)
 
@@ -19,7 +19,7 @@ Echodio is an innovative web application inspired by the popular "Lofi Girl" con
 ##  Key Features
 
 ### 🤖 AI-Driven Content Generation
-- **Dynamic Music Generation**: Leverages Suno AI (via GoAPI) to create instrumental tracks tailored to current weather, time, and location
+- **Dynamic Music Generation**: Leverages Udio (via GoAPI) to create instrumental tracks tailored to current weather, time, and location
 - **Contextual Background Images**: Uses Midjourney API to generate atmospheric visuals that complement the musical mood
 - **Automated Prompt Engineering**: Intelligent system that crafts optimized prompts based on environmental data
 
