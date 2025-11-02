@@ -12,7 +12,7 @@
 
 Echodio is an innovative web application inspired by the hourly music of Animal Crossing, designed to enhance productivity and focus through AI-generated ambient experiences. The application dynamically adapts its musical atmosphere and visual aesthetics based on real-time environmental factors including weather conditions, time of day, and geographical location.
 
-** Live Demo:** [Watch Demo Video](https://www.youtube.com/watch?v=1h2ezTZUQog)
+**Live Demo:** [Watch Demo Video](https://www.youtube.com/watch?v=1h2ezTZUQog)
 
 [![Echodio Demo](https://img.youtube.com/vi/1h2ezTZUQog/maxresdefault.jpg)](https://www.youtube.com/watch?v=1h2ezTZUQog)
 
